@@ -1,0 +1,439 @@
+[
+  {
+    "_id": "680a1ef3165cd48c4a820789",
+    "name": "xzCV",
+    "releaseDate": "2025-04-16T00:00:00.000+00:00",
+    "plot": "DASF",
+    "hero": "680a1ec9165cd48c4a820784",
+    "heroine": "680a1ec9165cd48c4a820784",
+    "director": "680a1ec9165cd48c4a820784",
+    "genre": "drama",
+    "language": "english",
+    "posters": [],
+    "trailer": "asdf",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820790",
+    "name": "Titanic",
+    "releaseDate": "1997-12-19T00:00:00.000+00:00",
+    "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "hero": "680a1ec9165cd48c4a820789",
+    "heroine": "680a1ec9165cd48c4a820786",
+    "director": "680a1ec9165cd48c4a820785",
+    "genre": "romance",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/71kAW9aXw6L._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=kVrqfYjkTdQ",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820791",
+    "name": "The Devil Wears Prada",
+    "releaseDate": "2006-06-30T00:00:00.000+00:00",
+    "plot": "A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.",
+    "hero": "680a1ec9165cd48c4a820789",
+    "heroine": "680a1ec9165cd48c4a820786",
+    "director": "680a1ec9165cd48c4a820798",
+    "genre": "comedy",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BZjQ3ZTIzOTYtYmRjZi00YzM4LTk2MmItZDI5OTQyMWYyMDY5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+      "https://m.media-amazon.com/images/I/81vHvpYc3RL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=XTDSwAxlNhc",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820792",
+    "name": "No Country for Old Men",
+    "releaseDate": "2007-11-21T00:00:00.000+00:00",
+    "plot": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+    "hero": "680a1ec9165cd48c4a820797",
+    "heroine": "680a1ec9165cd48c4a820791",
+    "director": "680a1ec9165cd48c4a820790",
+    "genre": "thriller",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/81aJ-R4N5xL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=38A__WT3-o0",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820793",
+    "name": "Inception",
+    "releaseDate": "2010-07-16T00:00:00.000+00:00",
+    "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "hero": "680a1ec9165cd48c4a820789",
+    "heroine": "680a1ec9165cd48c4a820799",
+    "director": "680a1ec9165cd48c4a820794",
+    "genre": "sci-fi",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/91Rc8cAmnAL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820794",
+    "name": "The Shawshank Redemption",
+    "releaseDate": "1994-09-23T00:00:00.000+00:00",
+    "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "hero": "680a1ec9165cd48c4a820805",
+    "heroine": "680a1ec9165cd48c4a820786",
+    "director": "680a1ec9165cd48c4a820785",
+    "genre": "drama",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/71bGZL-lrLL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820795",
+    "name": "Black Panther",
+    "releaseDate": "2018-02-16T00:00:00.000+00:00",
+    "plot": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+    "hero": "680a1ec9165cd48c4a820797",
+    "heroine": "680a1ec9165cd48c4a820807",
+    "director": "680a1ec9165cd48c4a820806",
+    "genre": "action",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/71Cj5S1h1JL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=xjDjIWPwcPU",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820796",
+    "name": "Little Women",
+    "releaseDate": "2019-12-25T00:00:00.000+00:00",
+    "plot": "Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women each determined to live life on her own terms.",
+    "hero": "680a1ec9165cd48c4a820801",
+    "heroine": "680a1ec9165cd48c4a820815",
+    "director": "680a1ec9165cd48c4a820798",
+    "genre": "drama",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/91BdP2vCwQL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=AST2-4db4ic",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820797",
+    "name": "Pulp Fiction",
+    "releaseDate": "1994-10-14T00:00:00.000+00:00",
+    "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "hero": "680a1ec9165cd48c4a820811",
+    "heroine": "680a1ec9165cd48c4a820791",
+    "director": "680a1ec9165cd48c4a820790",
+    "genre": "crime",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/71c05lTE03L._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820798",
+    "name": "Parasite",
+    "releaseDate": "2019-05-21T00:00:00.000+00:00",
+    "plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "hero": "680a1ec9165cd48c4a820823",
+    "heroine": "680a1ec9165cd48c4a820803",
+    "director": "680a1ec9165cd48c4a820802",
+    "genre": "thriller",
+    "language": "korean",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/81LUZP+zJVL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=5xH0HfJHsaY",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820799",
+    "name": "The Revenant",
+    "releaseDate": "2015-12-25T00:00:00.000+00:00",
+    "plot": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+    "hero": "680a1ec9165cd48c4a820789",
+    "heroine": "680a1ec9165cd48c4a820799",
+    "director": "680a1ec9165cd48c4a820814",
+    "genre": "adventure",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/81NDq6g2kIL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=LoebZZ8K5N0",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820800",
+    "name": "Dune",
+    "releaseDate": "2021-10-22T00:00:00.000+00:00",
+    "plot": "Feature adaptation of Frank Herbert's science fiction novel about the son of a noble family entrusted with the protection of the most valuable asset in the galaxy.",
+    "hero": "680a1ec9165cd48c4a820801",
+    "heroine": "680a1ec9165cd48c4a820819",
+    "director": "680a1ec9165cd48c4a820812",
+    "genre": "sci-fi",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/71X7bK2u+aL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=n9xhJrPXop4",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820801",
+    "name": "Lady Bird",
+    "releaseDate": "2017-11-03T00:00:00.000+00:00",
+    "plot": "In 2002, an artistically inclined seventeen-year-old girl comes of age in Sacramento, California.",
+    "hero": "680a1ec9165cd48c4a820801",
+    "heroine": "680a1ec9165cd48c4a820810",
+    "director": "680a1ec9165cd48c4a820798",
+    "genre": "comedy",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BODhkZGE0NDQtZDc0Zi00YmQ4LWJiNmUtYTY1OGM1ODRmNGVkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/71j8QeQpLBL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=cNi_HC839Wo",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820802",
+    "name": "The Dark Knight",
+    "releaseDate": "2008-07-18T00:00:00.000+00:00",
+    "plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "hero": "680a1ec9165cd48c4a820789",
+    "heroine": "680a1ec9165cd48c4a820799",
+    "director": "680a1ec9165cd48c4a820794",
+    "genre": "action",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/71YHjVXyR0L._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820803",
+    "name": "12 Years a Slave",
+    "releaseDate": "2013-10-18T00:00:00.000+00:00",
+    "plot": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+    "hero": "680a1ec9165cd48c4a820797",
+    "heroine": "680a1ec9165cd48c4a820807",
+    "director": "680a1ec9165cd48c4a000000",
+    "genre": "drama",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/71bGZL-lrLL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=z02Ie8wKKRg",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820804",
+    "name": "Jojo Rabbit",
+    "releaseDate": "2019-10-18T00:00:00.000+00:00",
+    "plot": "A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home.",
+    "hero": "680a1ec9165cd48c4a000000",
+    "heroine": "680a1ec9165cd48c4a820810",
+    "director": "680a1ec9165cd48c4a820818",
+    "genre": "comedy",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BZjU0Yzk2MzEtMjAzYy00MzY0LTg2YmItM2RkNzdkY2ZhN2JkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/81K9+j0Q5JL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=tL4McUzXfFI",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820805",
+    "name": "The Grand Budapest Hotel",
+    "releaseDate": "2014-03-28T00:00:00.000+00:00",
+    "plot": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+    "hero": "680a1ec9165cd48c4a000000",
+    "heroine": "680a1ec9165cd48c4a820803",
+    "director": "680a1ec9165cd48c4a820821",
+    "genre": "comedy",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/71X7bK2u+aL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=1Fg5iWmQjwk",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820806",
+    "name": "Joker",
+    "releaseDate": "2019-10-04T00:00:00.000+00:00",
+    "plot": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime.",
+    "hero": "680a1ec9165cd48c4a820823",
+    "heroine": "680a1ec9165cd48c4a000000",
+    "director": "680a1ec9165cd48c4a000000",
+    "genre": "crime",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/71YHjVXyR0L._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=zAGVQLHvwOY",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820807",
+    "name": "La La Land",
+    "releaseDate": "2016-12-09T00:00:00.000+00:00",
+    "plot": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+    "hero": "680a1ec9165cd48c4a820817",
+    "heroine": "680a1ec9165cd48c4a820815",
+    "director": "680a1ec9165cd48c4a000000",
+    "genre": "musical",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/71QNcQZQZaL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=0pdqf4P9MB8",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820808",
+    "name": "The Social Network",
+    "releaseDate": "2010-10-01T00:00:00.000+00:00",
+    "plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea.",
+    "hero": "680a1ec9165cd48c4a000000",
+    "heroine": "680a1ec9165cd48c4a000000",
+    "director": "680a1ec9165cd48c4a000000",
+    "genre": "drama",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BOGUyZDUxZjEtMmIzMC00MzlmLTg4MGItZWJmMzBhZjE0Mjc1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/71YHjVXyR0L._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=lB95KLmpLR4",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820809",
+    "name": "Mad Max: Fury Road",
+    "releaseDate": "2015-05-15T00:00:00.000+00:00",
+    "plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+    "hero": "680a1ec9165cd48c4a000000",
+    "heroine": "680a1ec9165cd48c4a000000",
+    "director": "680a1ec9165cd48c4a000000",
+    "genre": "action",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/71YHjVXyR0L._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=hEJnMQG9ev8",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  },
+  {
+    "_id": "680a1ef3165cd48c4a820810",
+    "name": "The Shape of Water",
+    "releaseDate": "2017-12-01T00:00:00.000+00:00",
+    "plot": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",
+    "hero": "680a1ec9165cd48c4a000000",
+    "heroine": "680a1ec9165cd48c4a000000",
+    "director": "680a1ec9165cd48c4a000000",
+    "genre": "fantasy",
+    "language": "english",
+    "posters": [
+      "https://m.media-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+      "https://m.media-amazon.com/images/I/71YHjVXyR0L._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=XFYWazblaUA",
+    "createdBy": "680a15ed309fefba952c016b",
+    "createdAt": "2025-04-24T11:22:27.277+00:00",
+    "updatedAt": "2025-04-24T11:22:27.277+00:00",
+    "__v": 0
+  }
+]
