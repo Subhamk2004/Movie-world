@@ -153,16 +153,7 @@ const MovieRecommendationModal = ({ isOpen, onClose, movies, genres, languages }
 
             {recommendedMovies.length > 0 && (
                 <div className="mb-4">
-                    <div className="bg-blue-50 border border-blue-200 rounded p-3">
-                        <p className="text-sm text-blue-800">
-                            <span className="font-medium">Filters applied:</span> {appliedFilters.join(', ')}
-                            {appliedFilters.length < Object.values(recommendationFilters).filter(Boolean).length - 1 && (
-                                <span className="ml-2 italic text-blue-600">
-                                    (Some filters were relaxed to find movies)
-                                </span>
-                            )}
-                        </p>
-                    </div>
+                    Below are the recommended movies:
                 </div>
             )}
 
